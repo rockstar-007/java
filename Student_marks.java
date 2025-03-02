@@ -6,7 +6,5 @@ class check{
 		int  marks = 300;
 		String Details = name +"\n marks :"+ marks;
 		System.out.println(Details);
-		
-		
 }
 }
